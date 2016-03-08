@@ -7,6 +7,8 @@ The proving ground for what makes it here is the
 
 ## Algorithms
 
+* [POS Tagging](doc/pos-tagging.md)
+
 ## Literature
 
 ## Benchmarks
